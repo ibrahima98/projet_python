@@ -1,0 +1,50 @@
+CODE   ,Numero       ,Nom           ,Prénom      ,Date de naissance ,Classe   ,Note
+AAD003 ,2014079LH    ,CISSE         ,Baba        ,16/08/99          ,6ieme A  ,Math[11|13:06] #Francais[08|17:12] #Anglais[13|13:12] #PC[09|18:07] #SVT[15|10:10] #HG[14|19:17]
+AAD003 ,2016023LD    ,NDIAYE        ,mbaye       ,12/09/00          ,5ieme A  ,Math[05|13:05] #Francais[11|17:15] #Anglais[19|14:15] #PC[13|11:07] #SVT[12|09:12] #HG[16|15:17]
+AAD003 ,286325HG     ,GAYE          ,Awa         ,13/04/12          ,3iemeA   ,Math[04|13:05] #Francais[15|06:11] #Anglais[15|13:13] #PC[14|13:07] #SVT[12|19:10] #HG[18|15:17]
+AAD003 ,201817JK     ,NDAO          ,Ndiaga      ,12/04/00          ,6iemeB   ,Math[04|13:05] #Francais[15|16:14] #Anglais[15|16:11] #PC[04|03:07] #SVT[12|09:11] #HG[16|15:10]
+AAD003 ,65281LKJ     ,DEME          ,Saliou      ,19/03/05          ,5iemeB   ,Math[20|19.5:05] #Francais[13|16:14] #Anglais[17|19:17] #PC[14|13:17] #SVT[12|19:10] #HG[16|19:17]
+AAD003 ,2007095KH    ,Ngadeu        ,Dinka       ,03/12/01          ,3iemeB   ,Math[12|13:15] #Francais[05|18:12] #Anglais[12|14:18] #PC[24|13:07] #SVT[17|09:12] #HG[16|15:17]
+AAD003 ,201607RK     ,BA            ,Mouhamed    ,19/06/96          ,4iemeC   ,Math[04|03:05] #Francais[15|16:14] #Anglais[15|16:14] #PC[04|03:07] #SVT[12|09:15] #HG[16|15:13]
+AAD003 ,2014067K     ,GUEYE         ,Mansour     ,34-13-1992        ,4iemeC   ,Math[14|12:15] #Francais[18|06:14] #Anglais[15|12:12] #PC[18|13:07] #SVT[11|19:12] #HG[13|15:12]
+AAD003 ,20133HGF     ,DANSOKHO      ,Siriman     ,13/04/10          ,6iemeC   ,Math[04|03:05] #Francais[15|15:14] #Anglais[15|06:15] #PC[14|06:07] #SVT[18|09:15] #HG[11|15:12]
+AAD003 ,2017ZEA5L    ,TOURE         ,Sokhna      ,23/04/14          ,3iemeC   ,Math[14|13:05] #Francais[18|16:14] #Anglais[15|06:17] #PC[14|13:07] #SVT[18|12:16] #HG[13|15:13]
+AAD004 ,             ,              ,            ,                  ,         ,
+AAD004 ,             ,              ,            ,                  ,         ,S
+AAD004 ,             ,              ,            ,                  ,         ,
+AAD004 ,             ,              ,            ,                  ,         ,
+AAD004 ,JD7LO99      ,SOW           ,Mariama     ,12/18/2017        ,4eme B   ,Math[04|03:05] #Francais[15|16:14] #Anglais[15|16:17] #PC[04|03:07] #SVT[12|09:10] #HG[16|15:17]
+AAD004 ,LIHGFR0      ,Diallo        ,Nourou      ,02/01/12          ,6emA     ,Math[14|15:10] #Francais[12|13:13] #Anglais[15|16:17] #PC[14|13:07] #SVT[15|19:10] #HG[13|12:15]
+AAD004 ,             ,              ,            ,                  ,         ,
+AAD004 ,             ,              ,            ,                  ,         ,
+AAD004 ,             ,              ,            ,                  ,         ,
+AAD004 ,             ,              ,            ,                  ,         ,
+AAD005 ,40DKG6T      ,Diallo        ,awa         ,21/10/04          ,6emA     ,"PC[17|20|18:15]#Math[15|16,15|13:17]#Francais[11:13]#Anglais[14:13]#SVT[13|11|15|11:12]#HG[15:13]"
+AAD005 ,44DSW78      ,Ndiaye        ,Sidy        ,19/01/05          ,4emB     ,PC[7|10|9:10]#Math[11|10|12:10]#Francais[14:15]#Anglais[14:14]#SVT[14|12|10:10]#HG[14:14]
+AAD005 ,20LH7BG      ,FAYE          ,Fallou      ,19/04/02          ,4emA     ,"PC[8|13|11:12]#Math[10|10,10|11:10]#Francais[12:13]#Anglais[10:11]#SVT[12|15|10|9:10]#HG[8:10]"
+AAD005 ,8D805GT      ,Diop          ,Seyni       ,29/09/05          ,3emA     ,"Math[10|11:15] #Francais[7|12|8:13] #Anglais[13,5|9:15] #PC[11:9]  #SVT[12|9|16|11:12]  #HG[10:13]"
+AAD005 ,9HBW36T      ,Ba            ,Aliou       ,01/01/06          ,5emA     ,"Math[15|16:15] #Francais[10|11|10:9] #Anglais[14,12|13:15] #PC[15:15]  #SVT[12|10|17|13:12]  #HG[17:14]"
+AAD005 ,W8NNJ6T      ,Ndoye         ,Ousmane     ,09/04/04          ,5emB     ,"Math[20|18:18] #Francais[12|14|14:13] #Anglais[15,16|16:14] #PC[17:18]  #SVT[14|15|15|16:14]  #HG[13:16]"
+AAD005 ,23YLTXT      ,Baal          ,Thierno     ,22/01/06          ,3emA     ,PC[13|11:13]#Math[12|14|15:8]#Francais[11:11]#Anglais[12:14]#SVT[12|12|10:10]#HG[8:10]
+AAD005 ,48DKG8T      ,Baal          ,Boubou      ,26/04/03          ,4emB     ,PC[17|11|8:11]#Math[12|10|11:15]#Francais[12:16]#Anglais[12:12]#SVT[13|15|11:14]#HG[12:17]
+AAD005 ,Q7XVP6G      ,Seck          ,Bineta      ,12/02/05          ,3emA     ,PC[14|8:16]#Math[12|16|11:12]#Francais[13:16]#Anglais[10:10]#SVT[13|13|12:8]#HG[10:9]
+AAD005 ,M67KQV7      ,Correa        ,Albert      ,26/12/03          ,6emA     ,PC[11|10|9:10]#Math[11|10|12:10]#Francais[10:9]#Anglais[12:111]#SVT[10|12|8:12]#HG[11:13]
+AAD007 ,H18AC4W      ,BA            ,Mouhamed    ,14/01/05          ,6emA     ,"Math[10|11:15] #Francais[7|12|8:13] #Anglais[13,5|9:15] #PC[11:9]  #SVT[12|9|16|11:12]  #HG[10:13]"
+AAD007 ,EPJHQQ5      ,DIAW          ,Fallou      ,12/08/06          ,3eme B   ,"PC[11:9]#   Math[12|14,5|11:13]   #Francais[14|12:13]  #Anglais[12,8:15]  #SVT[10|9|16|13:12]  #HG[10:16]"
+AAD007 ,KM729R9      ,NDIAYE        ,Marie       ,19/02/07          ,3eme A   ,"PC[11:9]#   Math[12|14,5|11:13]   #Francais[4|11:13]  #Anglais[13,8:15]  #SVT[12|9|16|11:12]  #HG[11:13]"
+AAD007 ,Q7U2XFP      ,DEME          ,Abdou       ,16/01/04          ,4 eme A  ,"Math[10|14,5|11|13:16] #PC[11:9]  #Francais[4|11:13]  #SVT[12|9|16|11:12] #HG[10:13]  #Anglais[13,5:15]"
+AAD007 ,0747PMJ      ,Ndao          ,Baye Ndiaga ,08/08/08          ,5em B    ,"SVT[13|9|11:14] #HG[10:13]  #Math[12|14,5|11:13]  #Francais[8|11:13] #Anglais[13,5:15]  #PC[13|11:9]"
+AAD007 ,18G9C4L      ,DIEYE         ,Abdoulaye   ,01/01/02          ,6emB     ,"PC[11:9]#   Math[12|14,5|11:13]   #Francais[4|11:13]  #Anglais[13,8:15]  #SVT[12|9|16|11:12]  #HG[11:13]"
+AAD007 ,UQI7FN8      ,Cyrille       ,Keys        ,07/11/07          ,4 em A   ,"Math[9|10,5|11|13:16] #PC[12:19]  #Francais[10|11:13]  #SVT[15|9|16|11:12] #HG[13:13]  #Anglais[13,12:15]"
+AAD007 ,9H37AKZ      ,LOW           ,Joakim      ,20/12/02          ,4em A    ,"PC[11:9]#   Math[12|14,5|11:13]   #Francais[14|12:13]  #Anglais[12,8:15]  #SVT[10|9|16|13:12]  #HG[10:16]"
+AAD007 ,6691DTO      ,Ndour         ,Karin       ,07/07/03          ,5 eme B  ,"SVT[15|11|11:12] #HG[6:16]  #Math[10|14,9|11:17]  #Francais[8|13:13] #Anglais[18,5:15]  #PC[7|11:9]"
+AAD007 ,8YM0304      ,KIBINDA       ,Iniess      ,15/08/05          ,6 em A   ,"Math[10|11:15] #Francais[7|9|8:13] #Anglais[10,5|9:15] #PC[10:11]  #SVT[12|11|16|8:12]  #HG[10:10]"
+AAD22  ,LSNP5Of      ,Sow           ,Mari        ,28/12/01          ,6eme A   ,"Math[10|11:15] #Francais[7|12|8:13] #Anglais[13,5|9:15] #PC[11:9]  #SVT[12|9|16|11:12]  #HG[10:13]"
+AAD22  ,PONAAC0      ,Tine          ,Jean        ,18/05/04          ,3eme A   ,"PC[11:9]#   Math[12|14,5|11:13]   #Francais[14|12:13]  #Anglais[12,8:15]  #SVT[10|9|16|13:12]  #HG[10:16]"
+AAD22  ,27WERUG      ,Fall          ,Ouley       ,16/11/05          ,3eme B   ,"PC[11:19]#   Math[02|10,5|11:13]   #Francais[14|11:13]  #Anglais[03,8:10]  #SVT[12|9|16|11:10]  #HG[11:15]"
+AAD22  ,UHT9KD8      ,Seye          ,Malick      ,07/10/07          ,5eme C   ,"Math[10|14,5|11|03:16] #PC[11:19]  #Francais[4|11:13]  #SVT[12|9|16|11:12] #HG[19:13]  #Anglais[10,5:15]"
+AAD22  ,O6G7XCQ      ,Tamba         ,Lamine      ,09/01/06          ,3eme D   ,"SVT[13|9|11:14] #HG[10:13]  #Math[12|14,5|11:13]  #Francais[8|11:13] #Anglais[13,5:15]  #PC[13|11:9]"
+AAD22  ,HDCB2G7      ,Ndaw          ,Ousmane     ,14/08/00          ,4eme B   ,"PC[11:19]#   Math[12|14,5|11:03]   #Francais[14|11:13]  #Anglais[13,8:05]  #SVT[12|19|16|11:19]  #HG[11:10]"
+AAD22  ,GFD3G8G      ,Ndour         ,Fatime      ,05/mars/2002      ,5eme D   ,"Math[9|10,5|10|13:16] #PC[12:15]  #Francais[10|17:13]  #SVT[15|9|06|11:12] #HG[13:03]  #Anglais[13,12:05]"
+AAD22  ,GC4BDQ7      ,Sarr          ,Oumi        ,17/06/03          ,3eme A   ,"Math[10|14,5|11|15:17] #PC[11:9]  #Francais[16|11:13]  #SVT[12|9|14|11:12] #HG[15:11]  #Anglais[13,5:15]"
+AAD22  ,BK63HBS      ,Gueye         ,Astou       ,28/02/12          ,3eme A   ,"SVT[15|11|11:12] #HG[6:16]  #Math[10|14,9|11:17]  #Francais[8|13:13] #Anglais[18,5:15]  #PC[7|11:9]"
