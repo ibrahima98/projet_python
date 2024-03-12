@@ -5,10 +5,13 @@
 '''
 import csv
 import json 
-
+donnees_tab = []
 
 with open("Donnees_Projet_Python_Dev_Data.csv", newline='', encoding='utf-8') as fichier_csv:
         reader = csv.DictReader(fichier_csv, delimiter=",")
+
         for ligne in reader:  
-                print(json.dumps(ligne, indent=3) )
+                donnees_tab.append(ligne)
+                numb = donnees_tab[0]
+        print(json.dumps(numb, indent=3) )
 
